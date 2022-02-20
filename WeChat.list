@@ -1,6 +1,6 @@
 # 内容：让WeChat走GoogleFCM 谷歌推送服务
 # 数量：35条
-PROCESS-NAME,com.tencent.mm,📢 谷歌FCM
+PROCESS-NAME,com.tencent.mm
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
